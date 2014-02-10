@@ -1,4 +1,4 @@
 MrNice.github.io
 ================
 
-Personal Website
+Personal Website, currently focused on helping me attend Hack Reactor.
